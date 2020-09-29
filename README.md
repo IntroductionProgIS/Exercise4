@@ -6,7 +6,7 @@ The aim of this exercise is to create a percentage wheel containing:
   - **An interactive PieChart** to modify and visualize the percentage
   - **A Slider** to manipulate and visualize the percentage value
 
-<p align="center"><img src="/img/PercentageWheel.png" width="300"></p>
+<p align="center"><img src="/img/PercentageWheel.png" width="150"></p>
 
 
 1. Import this project in Eclipse *To import this project in eclipse, you should open Eclipse and follow these steps:*
